@@ -27,4 +27,4 @@ Si un joueur obtient un As et une carte valant 10 dès la distribution initiale,
 - Si le joueur a moins que le croupier ou dépasse 21, il perd.
 - En cas d'égalité, c'est une **push** (égalité, personne ne gagne).
 
-Réalisé dans le cadre de ma formation, en binôme avec Grégory Toureille
+Réalisé par [Grégory Toureille](https://github.com/nyoukki) et Arthur Millet
